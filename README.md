@@ -48,10 +48,10 @@ To explore or modify this Excel project:
 2. Download and Open MS Excel:
 -This analysis is compatible with all modern versions of Excel.
 
-3. Open Raw Data Folder
+3. Open Raw Data Folder:
 -Kindly download the Facts table zip file and review other raw data
 
-4.To Create a Report:
+4. To Create a Report:
 -Navigate to the Report folder in the repository and Review those reports and Start to perform analysis by creating report
 
 ## Usage
