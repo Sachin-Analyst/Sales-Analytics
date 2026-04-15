@@ -6,7 +6,8 @@ This project involves a comprehensive sales performance analysis for AtliQ Hardw
 ## Table of contents
 
 - [Introduction](#introduction)  
-- [Project Description](#project-description)  
+- [Project Description](#project-description)
+- [Key Features](#key-features)
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [License](#license)
