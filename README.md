@@ -25,6 +25,12 @@ This project involves a comprehensive sales performance analysis for AtliQ Hardw
 ## Project Description
 This project provides a comprehensive sales analytics framework for AtliQ Hardwares, focusing on bridging the gap between actual performance and organizational targets. By leveraging advanced data modeling, the analysis identifies high-potential regions and product lines to streamline growth optimization and resource allocation
 
+---
+## Folder Structure
+- *Raw Data* -  The actual files and data I used to build the project.
+- *Report* - The finalized analysis so you can see the results in formate PDF
+- *Solution* - The final results in the function added as the Excel File
+
 ## Key features
 - Market Expansion
 - Divisional Growth
