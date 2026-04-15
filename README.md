@@ -38,7 +38,7 @@ This project provides a comprehensive sales analytics framework for AtliQ Hardwa
 
 ## Installation
 
-To explore or modify this Excel project:
+To explore or modify this Project:
 
 1. *Clone the repository:*   
    ```bash
